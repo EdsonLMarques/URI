@@ -1,0 +1,2 @@
+o objetivo deste projeto é auxiliar estudantes a compreenderem as respostas para os problemas do URI utilizando python.
+As soluções utilizarão conceitos mais avançados do que simplesmente o If e Else que normalmente são utilizados
